@@ -65,7 +65,10 @@ O relatório está dividido em visões complementares para facilitar a navegaç�
 4. Utilize o painel de filtros na lateral direita de cada página para navegar entre os diferentes períodos de tempo e categorias de análise.
 
 ---
+## Imagem do Dashboard
 
+![Dashboard](https://github.com/renatagcardozo/Dashaboard_Compras/blob/main/prints/hastag.png)
+---
 ##  Notas de Versão
 
 * **Versão Atual:** 1.0.0
