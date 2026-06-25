@@ -1,0 +1,5 @@
+relationship 08046ac9-270d-4767-ae56-8ace735e714d
+	joinOnDateBehavior: datePartOnly
+	fromColumn: BaseCompras.'Data da Compra'
+	toColumn: LocalDateTable_1cc4df3a-0537-489c-b03a-d382f6f09f53.Date
+

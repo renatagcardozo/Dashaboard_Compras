@@ -1,0 +1,20 @@
+model Model
+	culture: pt-BR
+	defaultPowerBIDataSourceVersion: powerBI_V3
+	sourceQueryCulture: pt-BR
+	dataAccessOptions
+		legacyRedirects
+		returnErrorValuesAsNull
+
+annotation __PBI_TimeIntelligenceEnabled = 1
+
+annotation PBI_QueryOrder = ["BaseCompras"]
+
+annotation PBI_ProTooling = ["DevMode"]
+
+ref table BaseCompras
+ref table DateTableTemplate_13af2af0-4b17-44b5-b67b-9e59261d7d1c
+ref table LocalDateTable_1cc4df3a-0537-489c-b03a-d382f6f09f53
+
+ref cultureInfo pt-BR
+
